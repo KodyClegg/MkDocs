@@ -1,4 +1,5 @@
 site_name: Kiosk Docs
+site_favicon: favicon.ico
 nav:
   - Home: index.md
   - About: about.md
